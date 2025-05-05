@@ -28,7 +28,7 @@ test-bookmarks.sh
 docs/*
 
 # 自定义配置文件
-config/user/*
+# config/user/*
 config.user.yml
 bookmarks.user.yml
 
